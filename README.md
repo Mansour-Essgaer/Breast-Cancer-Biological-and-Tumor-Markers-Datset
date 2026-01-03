@@ -2,7 +2,7 @@
 
 ---
 
-# Sebha Breast Cancer Prediction Corpus
+# Sebha Breast Cancer Dataset
 
 ### Biological & Tumor Marker Dataset for Early Detection
 
