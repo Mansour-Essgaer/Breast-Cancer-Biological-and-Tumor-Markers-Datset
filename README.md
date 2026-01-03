@@ -1,6 +1,8 @@
+
+
 ---
 
-# Sebha Breast Cancer Prediction Dataset
+# Sebha Breast Cancer Prediction Corpus
 
 ### Biological & Tumor Marker Dataset for Early Detection
 
@@ -83,13 +85,17 @@ The dataset was used to train and optimize a **Classification and Regression Tre
 If you use this dataset, please cite the original paper:
 
 ```bibtex
-@inproceedings{agaal2022biological,
-  title={Biological and Tumor Markers in Early Prediction Phase of Breast Cancer Using Classification and Regression Tree: Sebha Oncology Center as a Case study},
+@INPROCEEDINGS{9837543,
   author={Agaal, Asma and Essgaer, Mansour},
-  booktitle={IEEE Conference Proceedings},
+  booktitle={2022 IEEE 2nd International Maghreb Meeting of the Conference on Sciences and Techniques of Automatic Control and Computer Engineering (MI-STA)}, 
+  title={Biological and Tumor Markers in Early Prediction Phase of Breast Cancer Using Classification and Regression Tree: Sebha Oncology Center as a Case study}, 
   year={2022},
-  organization={Faculty of Information Technology, Sebha University}
-}
+  volume={},
+  number={},
+  pages={228-233},
+  keywords={White blood cells;Red blood cells;Conferences;Medical services;Oncology;Prediction algorithms;Breast cancer;breast cancer;biological markers;tumor markers;classification algorithm;routine blood test;Sebha oncology center;Libya},
+  doi={10.1109/MI-STA54861.2022.9837543}}
+
 
 ```
 
